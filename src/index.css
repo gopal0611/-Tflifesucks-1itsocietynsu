@@ -1,0 +1,26 @@
+* {
+  background-color: "white";
+}
+button {
+  background-color: azure;
+}
+div,
+button {
+  font-size: 1rem;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  height: 5rem;
+  width: 5rem;
+}
+
+#clear {
+  background: #aaa;
+  width: 20rem;
+}
